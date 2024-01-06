@@ -1,7 +1,6 @@
 # Integrando um Forms com o Discord
 
-Estudo desenvolvido durante o curso de desenvolvimento de portifolio do [Canal]
-(https://www.youtube.com/playlist?list=PLY_G6KZ7jlfU41bdaWpTsOnfCC7bmpJcL) e desenvolvimeto de um tutorial para a Hari-Q. 
+Estudo desenvolvido durante o curso de desenvolvimento de portifolio do [Canal](https://www.youtube.com/playlist?list=PLY_G6KZ7jlfU41bdaWpTsOnfCC7bmpJcL) e desenvolvimeto de um tutorial para a Hari-Q. 
 Qualquer mensagem que for enviado pelo forms será encaminhado para um servidor do discord. 
 
 ## 🚀 Tecnologias
