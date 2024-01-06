@@ -16,11 +16,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 
 
-Layout do projeto. 
+Layout do projeto. <br>
 ![pagina](./public/images/discord_rd.PNG)
+ <br>
 
-Mensagem recebida pelo discord
+Mensagem recebida pelo discord <br>
 ![chatbot](./public/images/chatbot.PNG)
+ <br>
 
 ## 🔖 
 Projeto de estudo do next.js e tailwind com integração da api do discord, para criar um forms do qual qualquer mensagem enviada, será recebido em um servidor do discord. 
