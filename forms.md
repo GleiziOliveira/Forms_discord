@@ -94,10 +94,12 @@ Sera implementado uma logica no onSubmit para enviar as informações para o dis
 ![ordem dos diretorios](./public/images/discord_11.png)
 
 [Discord embed builder](https://autocode.com/tools/discord/embed-builder/) 
+
+
 - Video ensinando a usar o discord embed builder tem audio o video
-<video width="640" height="360" controls>
-  <source src="./public/images/discord_video.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <img src="./public/images/discord_video.gif" alt="Telas do Projeto" width="50%" />
+</p>
 
 #### Rota de enviar a mensagem 
 
